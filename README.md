@@ -7,7 +7,9 @@ Create account with encrypted password and Unique Email. Edit adress, telephone 
 You can see  User list.  
 
 post, get, put, delete.
+
 ROUTES:
+
 POST: http://127.0.0.1:3333/api/users/create
 
 POST: http://127.0.0.1:3333/api/users/login
